@@ -1,2 +1,2 @@
-# kotlin-katas
-Katas with Kotlin
+# Kotlin katas
+
