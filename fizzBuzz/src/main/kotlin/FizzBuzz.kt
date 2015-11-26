@@ -24,8 +24,9 @@ class FizzBuzz(){
 
 
     public fun execute(sb : StringBuilder) : String {
-        for(i in INIT_RANGE..END_RANGE_INCLUSIVE)
-            sb.append(i.toFizzBuzz())
+        (INIT_RANGE..END_RANGE_INCLUSIVE).forEach {
+            sb.append(it.toFizzBuzz())
+        }
 
         return sb.toString()
     }
