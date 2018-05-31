@@ -39,4 +39,4 @@ Buzz
 ```
 
 # Reference
-* Coding dojo, KataFizzBuzz - http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
+* [Coding dojo, KataFizzBuzz](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
