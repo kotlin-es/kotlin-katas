@@ -1,5 +1,5 @@
 dist: trusty
-language: kotlin
+language: java
 sudo: false
 notifications:
   email:
