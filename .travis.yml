@@ -27,4 +27,4 @@ addons:
   sonarcloud:
     organization: "vicboma1" # the key of the org you chose at step #3
     token:
-      secure: "4eb1fa7f6809b280d58eb88399c23ec91a397b55" # encrypted value of your token
+      secure: "a3ea36cb676926ab10d505b20b2a2cca43465461" # encrypted value of your token
